@@ -1,0 +1,21 @@
+.product-container {
+  /* margin: 0.8rem; */
+}
+
+.product-image {
+  width: 100%;
+}
+
+.product-discount {
+  display: flex;
+  flex-direction: row;
+  gap: 0.4rem;
+}
+
+.price-original {
+  text-decoration: line-through;
+}
+
+.price-discount {
+  font-weight: 600;
+}
